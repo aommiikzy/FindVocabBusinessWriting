@@ -1,0 +1,6 @@
+1)Download the file FindVocab.class
+2)Make sure that your text file is in the same folder or path.
+3)Open Terminal or CMD.
+4)Type java FindVocab.
+5)You can see the my program.
+I hope that my program can help you to find the vocabulary about business writing.
